@@ -1,0 +1,3 @@
+﻿  指针引用.cpp
+c:\users\jiabiao\documents\visual studio 2017\project2017\cppbase\c++基础01\10 const引用\指针引用.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  10 const引用.vcxproj -> C:\Users\JiaBiao\Documents\Visual Studio 2017\Project2017\CppBase\C++基础01\Debug\10 const引用.exe
