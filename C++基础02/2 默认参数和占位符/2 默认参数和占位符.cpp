@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void printAandB(int a, int b=100)//默认实参要在尾部
+void printAandB(int a, int b = 100)//默认实参要在尾部
 {
 	cout << "A=" << a << ",B=" << b << endl;
 }
