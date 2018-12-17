@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7 纯虚函数和多继承"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8 动物园案例", "8 动物园案例\8 动物园案例.vcxproj", "{B43E1AF2-2C0A-498C-B787-231B9B535D48}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "电脑组装抽象编程案例", "电脑组装抽象编程案例\电脑组装抽象编程案例.vcxproj", "{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{B43E1AF2-2C0A-498C-B787-231B9B535D48}.Release|x64.Build.0 = Release|x64
 		{B43E1AF2-2C0A-498C-B787-231B9B535D48}.Release|x86.ActiveCfg = Release|Win32
 		{B43E1AF2-2C0A-498C-B787-231B9B535D48}.Release|x86.Build.0 = Release|Win32
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Debug|x64.ActiveCfg = Debug|x64
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Debug|x64.Build.0 = Debug|x64
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Debug|x86.ActiveCfg = Debug|Win32
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Debug|x86.Build.0 = Debug|Win32
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Release|x64.ActiveCfg = Release|x64
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Release|x64.Build.0 = Release|x64
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Release|x86.ActiveCfg = Release|Win32
+		{702EDEE1-90FC-4B75-A079-EF1A2EBBC936}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
