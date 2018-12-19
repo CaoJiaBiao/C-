@@ -1,8 +1,8 @@
 ﻿  Employee.cpp
+  main.cpp
   Manager.cpp
   SalesMan.cpp
   SalesManager.cpp
   Technician.cpp
-  main.cpp
   正在生成代码...
-  3 企业员工管理.vcxproj -> C:\Users\JiaBiao\source\repos\C++基础08\Debug\3 企业员工管理.exe
+  3 企业员工管理.vcxproj -> C:\Users\JiaBiao\Documents\Visual Studio 2017\Project2017\CppBase\C++基础08\Debug\3 企业员工管理.exe
