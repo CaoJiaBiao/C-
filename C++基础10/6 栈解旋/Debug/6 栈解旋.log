@@ -1,0 +1,5 @@
+﻿  6 栈解旋.cpp
+c:\users\jiabiao\documents\visual studio 2017\project2017\cppbase\c++基础10\6 栈解旋\6 栈解旋.cpp(30): warning C4297: “func”: 假定函数不引发异常，但确实发生了
+  c:\users\jiabiao\documents\visual studio 2017\project2017\cppbase\c++基础10\6 栈解旋\6 栈解旋.cpp(30): note: 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+c:\users\jiabiao\documents\visual studio 2017\project2017\cppbase\c++基础10\6 栈解旋\6 栈解旋.cpp(32): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  6 栈解旋.vcxproj -> C:\Users\JiaBiao\Documents\Visual Studio 2017\Project2017\CppBase\C++基础10\Debug\6 栈解旋.exe
